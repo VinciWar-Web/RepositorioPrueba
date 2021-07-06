@@ -1,0 +1,22 @@
+{
+  "DatosDB": [
+    {
+      "nombre": "Juan",
+      "apellido": "Ortiz",
+      "sexo": "Masculino",
+      "id": 1
+    },
+    {
+      "nombre": "Maria",
+      "apellido": "Suarez",
+      "sexo": "Femenino",
+      "id": 2
+    },
+    {
+      "nombre": "Antonio",
+      "apellido": "Ramos",
+      "sexo": "Masculino",
+      "id": 3
+    }
+  ]
+}
